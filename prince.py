@@ -47,7 +47,7 @@ P = '\x1b[1;95m'
 Y = '\x1b[1;93m'
 logo = "                          \n\x1b[1;92m d8888.  .d8b.  db   db db    db \n\x1b[1;92m88'  YP d8' `8b 88   88 88    88 \n\x1b[1;92m`8bo.   88ooo88 88ooo88 88    88 \n\x1b[1;93m  `Y8b. 88~~~88 88~~~88 88    88 \n\x1b[1;93mdb   8D 88   88 88   88 88b  d88 \n\x1b[1;93m`8888Y' YP   YP YP   YP ~Y8888P' \n                                 \n                                 \n\n"
 CorrectUsername = 'prince'
-CorrectPassword = 'prince
+CorrectPassword = 'prince'
 loop = 'true'
 while loop == 'true':
     username = raw_input('\x1b[1;91m[+] \x1b[1;91m \x1b[1;91mTool Username \x1b[1;91m: \x1b[1;97m')
